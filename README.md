@@ -13,6 +13,7 @@ the outputs to find out what method can yield a better
 result.
 
 <br>
+
 ## I.INTRODUCTION
 Image Super Resolution in one of the most common image
 restoration issue that has been getting attention over the years.

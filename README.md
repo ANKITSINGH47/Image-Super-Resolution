@@ -14,7 +14,7 @@ result.
 
 <br>
 
-## I.INTRODUCTION
+##  I. INTRODUCTION
 Image Super Resolution in one of the most common image
 restoration issue that has been getting attention over the years.
 The purpose of Image Super-Resolution (ISR) is to generate a

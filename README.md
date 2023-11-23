@@ -74,6 +74,9 @@ to successful super-resolution consists of accurate alignment
 i.e., registration and formulation of an appropriate forward
 image model. The figure 1 below shows the stages in superresolution process
 
+![Screenshot from 2023-11-23 15-50-55](https://github.com/ANKITSINGH47/Image-Super-Resolution/assets/47277960/5c2cec11-2d2c-4fc7-b292-1d8f285dda97)
+
+
 ## III. DATA AND METHODOLOGY
 We started with studying the methods used by various sources,
 and started our work by importing the relevant models.
@@ -99,6 +102,13 @@ that the accuracy increased for with the increase in number of
 Epochs.
 
 ## IV. EXPERIMENTS AND RESULTS
+![Screenshot from 2023-11-23 15-51-49](https://github.com/ANKITSINGH47/Image-Super-Resolution/assets/47277960/9a6ad1bb-cf70-46d3-8052-f86c6b330e60)
+
+
+![Screenshot from 2023-11-23 15-52-07](https://github.com/ANKITSINGH47/Image-Super-Resolution/assets/47277960/41ac2629-9de2-4565-9903-4b7f88e62e17)
+
+
+
 On, subjecting our model with different type of input we
 found that our model worked better on down-sampled by 4
 images refer (A), with accuracy of approx. 0.89. Even though
